@@ -1,0 +1,7 @@
+name: GMInstantBow
+version: 1.0
+main: com.gemix.gminstantbow.Gemix
+api-version: '1.21'
+depend: [MMOItems, MythicLib]
+authors: [Gemix]
+description: Instant Bow shooting plugin for MMOItems

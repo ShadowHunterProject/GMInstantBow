@@ -1,0 +1,8 @@
+# Cooldown tính bằng mili giây (1000 = 1 giây)
+# Mặc định là 500ms (0.5 giây)
+cooldown-ms: 500
+
+# Tin nhắn khi người chơi bắn quá nhanh đang trong thời gian hồi chiêu
+# Dùng & để ghi màu
+messages:
+  cooldown: ""
